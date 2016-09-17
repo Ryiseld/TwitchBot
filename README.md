@@ -1,4 +1,4 @@
-# TwitchBot
+# Twitch Bot
 A simple Twitch bot made in Python
 
 ## Installation
